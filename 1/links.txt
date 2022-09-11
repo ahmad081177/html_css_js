@@ -1,6 +1,0 @@
-Slides:
-
-https://docs.google.com/presentation/d/1kDrdYBjNr6SMjQQwpo9nCKp-pkejLoYu__o0g0CU5iI/edit?usp=sharing
-
-W3School:
-https://www.w3schools.com/html/html_basic.asp
