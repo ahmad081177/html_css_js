@@ -1,0 +1,12 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+}
+
+h2{
+    border: 5px dashed gray;
+    padding: 7px;
+    margin: 20px;
+}
