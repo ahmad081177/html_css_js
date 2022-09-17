@@ -1,0 +1,31 @@
+h1{
+text-align:center;
+}
+
+.full_width{
+    width:100%
+}
+.spaces{
+    padding:15px;
+    margin: 8px;
+}
+
+.submitbtn
+{
+	background-color: #4CAF50;
+}
+
+.submitbtn:hover {
+  background-color: #45a049;
+}
+
+.formbuttons{
+    cursor:pointer;
+}
+
+.clear-btn{
+	background-color: gray;
+}
+.clear-btn:hover {
+  background-color: darkgray;
+}
