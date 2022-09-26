@@ -2,12 +2,16 @@ h1{
 text-align:center;
 }
 
-.full_width{
-    width:100%
+.edit{
+    width: 98%;
+    padding: 8px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 8px;
 }
-.spaces{
-    padding:15px;
-    margin: 8px;
+
+label{
+    margin-left: 10px;
 }
 
 .submitbtn
@@ -21,6 +25,7 @@ text-align:center;
 
 .formbuttons{
     cursor:pointer;
+    border-radius: 20px;
 }
 
 .clear-btn{
